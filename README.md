@@ -1,4 +1,6 @@
-# Bootcamp_Dec16_Utah
+# ADS-B Hive SerDe
+
+Bootcamp_Dec16_Utah
 
 
 The ADSBSerDe folder contains the Java Project for a Hive SerDe.
